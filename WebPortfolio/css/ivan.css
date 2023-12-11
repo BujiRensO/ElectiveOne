@@ -202,4 +202,66 @@ body {
     color: white;
     text-shadow: 3.5px 3.5px #0000007c;
 }
- 
+.RESUME{
+  margin-top: 10px;
+    font-size: 50px;
+    text-align: left;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    text-shadow: 3.5px 3.5px #0000007c;
+
+}
+ .me{
+  width: 200px;
+  border-radius: 10%;
+  float: left;
+ }
+ .para4{
+  text-align: left;
+ }
+.resumecontainer{
+  margin-top: 50px;
+  margin-left: 75px;
+  width: 750px;
+  height: 250px;
+  padding: 75px;
+  box-shadow: 0px 0px 10px 5px rgb(255, 255, 255);
+  border-radius: 25px;
+} 
+.resumecontainer1{
+  margin-top: 50px;
+  margin-left: 225px;
+  width: 750px;
+  height: 300px;
+  padding: 75px;
+  box-shadow: 0px 0px 10px 5px rgb(255, 255, 255);
+  border-radius: 25px;
+}
+.contactlogo{
+  padding-right: -100px;
+  margin-left: 150px;
+  float: left;
+  height: 50px;
+  border-radius: 50%;
+}
+.para5{
+  font-size: 25px;
+  background-color: rgba(0, 0, 0, 0.459);
+  background-size: 100px ;
+  height: 50px;
+  color: white;
+}
+.para5:hover{
+  box-shadow: 0px 0px 10px 5px rgb(255, 255, 255);
+  background-image: linear-gradient(black,rgb(168, 168, 168));
+  transition: 0.5s ease;
+}
+.contactlogo:hover{
+  box-shadow: 0px 0px 10px 5px rgb(255, 255, 255);
+  scale: 1.5;
+  transition: 1s ease;
+}
+.hover:hover{
+  scale: 1.25;
+  transition: 1s ease;
+}
